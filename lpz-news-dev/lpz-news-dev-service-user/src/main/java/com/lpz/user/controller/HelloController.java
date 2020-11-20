@@ -1,5 +1,6 @@
 package com.lpz.user.controller;
 
+import com.lpz.api.controller.user.HelloControllerApi;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -9,9 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
  * 描述:
  */
 @RestController
-public class HelloController {
+public class HelloController implements HelloControllerApi {
 
-    @GetMapping("/hello")
     public Object hello() {
         return "hello";
     }
