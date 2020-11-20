@@ -1,0 +1,18 @@
+2020-11-20 17:16:36.064 [main] INFO  com.lpz.user.Application - Starting Application on LAPTOP-BHS6P1CR with PID 13316 (D:\demo\news\lpz-news-dev\lpz-news-dev-service-user\target\classes started by NJ442 in D:\demo\news\lpz-news-dev)
+2020-11-20 17:16:36.068 [main] INFO  com.lpz.user.Application - No active profile set, falling back to default profiles: default
+2020-11-20 17:16:36.914 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8003 (http)
+2020-11-20 17:16:36.922 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8003"]
+2020-11-20 17:16:36.923 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-20 17:16:36.924 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-11-20 17:16:36.992 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-20 17:16:36.992 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 830 ms
+2020-11-20 17:16:37.127 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-20 17:16:37.271 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8003"]
+2020-11-20 17:16:37.288 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8003 (http) with context path ''
+2020-11-20 17:16:37.291 [main] INFO  com.lpz.user.Application - Started Application in 1.751 seconds (JVM running for 2.606)
+2020-11-20 17:16:48.300 [http-nio-8003-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-20 17:16:48.300 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-20 17:16:48.304 [http-nio-8003-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-11-20 17:16:48.318 [http-nio-8003-exec-1] INFO  c.l.user.controller.HelloController - info: hello!
+2020-11-20 17:16:48.319 [http-nio-8003-exec-1] WARN  c.l.user.controller.HelloController - warn: hello!
+2020-11-20 17:16:48.319 [http-nio-8003-exec-1] ERROR c.l.user.controller.HelloController - error: hello!
