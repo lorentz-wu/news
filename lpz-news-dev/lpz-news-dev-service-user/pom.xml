@@ -17,6 +17,6 @@
             <artifactId>lpz-news-dev-service-api</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-x`    </dependencies>
+    </dependencies>
 
 </project>
