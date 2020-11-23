@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/lpz-news-dev-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/lpz-news-dev-service-user/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-generator-database/pom.xml" />
       </list>
     </option>
   </component>

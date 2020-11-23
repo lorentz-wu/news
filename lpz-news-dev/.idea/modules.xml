@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/lpz-news-dev-model/lpz-news-dev-model.iml" filepath="$PROJECT_DIR$/lpz-news-dev-model/lpz-news-dev-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/lpz-news-dev-service-api/lpz-news-dev-service-api.iml" filepath="$PROJECT_DIR$/lpz-news-dev-service-api/lpz-news-dev-service-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/lpz-news-dev-service-user/lpz-news-dev-service-user.iml" filepath="$PROJECT_DIR$/lpz-news-dev-service-user/lpz-news-dev-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-database/mybatis-generator-database.iml" filepath="$PROJECT_DIR$/mybatis-generator-database/mybatis-generator-database.iml" />
     </modules>
   </component>
 </project>

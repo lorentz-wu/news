@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-generator-database" />
         <module name="lpz-news-dev-common" />
         <module name="lpz-news-dev-service-user" />
         <module name="lpz-news-dev-model" />
@@ -18,6 +19,7 @@
       <module name="lpz-news-dev-model" target="1.8" />
       <module name="lpz-news-dev-service-api" target="1.8" />
       <module name="lpz-news-dev-service-user" target="1.8" />
+      <module name="mybatis-generator-database" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

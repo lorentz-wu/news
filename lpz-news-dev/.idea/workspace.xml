@@ -23,25 +23,88 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:helloBranch" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e39986df-d7b5-4924-bdf3-3981a0b6b5aa" name="Default Changelist" comment="创建项目，并新建hello页面验证">
-      <change afterPath="$PROJECT_DIR$/lpz-news-dev-service-user/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpz/grace/result/GraceJSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpz/grace/result/LPZJSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpz/grace/result/ResponseStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j_1_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-database/mybatis-generator-database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-database/src/main/java/com/lpz/pojo/AdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-database/src/main/java/com/lpz/pojo/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-database/src/main/java/com/lpz/pojo/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-database/src/main/java/com/lpz/pojo/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-generator-database/src/main/java/com/lpz/pojo/Fans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/src/main/java/com/lpz/user/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-service-user/src/main/java/com/lpz/user/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/com/lpz/user/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/com/lpz/user/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demologs/service-user.2020-11-20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpz/grace/result/GraceJSONResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpzm/grace/result/GraceJSONResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpz/grace/result/LPZJSONResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpzm/grace/result/LPZJSONResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpz/grace/result/ResponseStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-common/src/main/java/com/lpzm/grace/result/ResponseStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-api/src/main/java/com/lpz/api/controller/user/HelloControllerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-service-api/src/main/java/com/lpzm/api/controller/user/HelloControllerApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/src/main/java/com/lpz/user/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-service-user/src/main/java/com/lpzm/user/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/src/main/java/com/lpz/user/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lpz-news-dev-service-user/src/main/java/com/lpzm/user/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/com/lpz/user/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/com/lpz/user/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lpz-news-dev-service-user/target/classes/logback-spring.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,6 +135,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1kXEHuprI1DkoNtGoHme7JRZFJb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -85,6 +151,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/svn_work" />
@@ -98,7 +165,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -108,16 +175,53 @@
       <recent name="D:\demo\news\lpz-news-dev\lpz-news-dev-service-user\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AdminGenerator">
+    <configuration name="AdminGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lpz.mybatis.utils.AdminGenerator" />
+      <module name="mybatis-generator-database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lpz.mybatis.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lpz.mybatis.utils.ArticleGenerator" />
+      <module name="mybatis-generator-database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lpz.mybatis.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lpz.mybatis.utils.UserGenerator" />
+      <module name="mybatis-generator-database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lpz.mybatis.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,17 +230,20 @@
       <module name="lpz-news-dev-service-user" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lpz.user.*" />
+          <option name="PATTERN" value="com.lpzm.user.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lpz.user.Application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lpzm.user.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdminGenerator" />
+        <item itemvalue="Application.UserGenerator" />
+        <item itemvalue="Application.ArticleGenerator" />
         <item itemvalue="Spring Boot.Application" />
       </list>
     </recent_temporary>
@@ -157,7 +264,12 @@
       <workItem from="1605857591117" duration="3846000" />
       <workItem from="1605861669926" duration="66000" />
       <workItem from="1605861739581" duration="740000" />
-      <workItem from="1605862494645" duration="5031000" />
+      <workItem from="1605862494645" duration="5329000" />
+      <workItem from="1605938729466" duration="2023000" />
+      <workItem from="1605949272084" duration="32000" />
+      <workItem from="1606115830452" duration="2850000" />
+      <workItem from="1606124825819" duration="1375000" />
+      <workItem from="1606127592967" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="创建项目，并新建hello页面验证">
       <created>1605861427069</created>
@@ -183,7 +295,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="helloBranch" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -209,54 +321,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="502" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605838938846" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606128007928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606128007928" />
     <state x="806" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605859127711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="806" y="246" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1605859127711" />
-    <state x="819" y="224" key="FileChooserDialogImpl" timestamp="1605873996273">
+    <state x="819" y="224" key="FileChooserDialogImpl" timestamp="1606121516221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="819" y="224" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605873996273" />
-    <state width="724" height="300" key="GridCell.Tab.0.bottom" timestamp="1605876552022">
+    <state x="819" y="224" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606121516221" />
+    <state width="1493" height="307" key="GridCell.Tab.0.bottom" timestamp="1606128352576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605876552022" />
-    <state width="724" height="300" key="GridCell.Tab.0.center" timestamp="1605876552022">
+    <state width="1493" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606128352576" />
+    <state width="1493" height="307" key="GridCell.Tab.0.center" timestamp="1606128352576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605876552022" />
-    <state width="724" height="300" key="GridCell.Tab.0.left" timestamp="1605876552022">
+    <state width="1493" height="307" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606128352576" />
+    <state width="1493" height="307" key="GridCell.Tab.0.left" timestamp="1606128352576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605876552022" />
-    <state width="724" height="300" key="GridCell.Tab.0.right" timestamp="1605876552022">
+    <state width="1493" height="307" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606128352576" />
+    <state width="1493" height="307" key="GridCell.Tab.0.right" timestamp="1606128352576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605876552022" />
-    <state width="724" height="300" key="GridCell.Tab.1.bottom" timestamp="1605876552023">
+    <state width="1493" height="307" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606128352576" />
+    <state width="1493" height="304" key="GridCell.Tab.1.bottom" timestamp="1605877381911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605876552023" />
-    <state width="724" height="300" key="GridCell.Tab.1.center" timestamp="1605876552022">
+    <state width="1493" height="304" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605877381911" />
+    <state width="1493" height="304" key="GridCell.Tab.1.center" timestamp="1605877381911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605876552022" />
-    <state width="724" height="300" key="GridCell.Tab.1.left" timestamp="1605876552022">
+    <state width="1493" height="304" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605877381911" />
+    <state width="1493" height="304" key="GridCell.Tab.1.left" timestamp="1605877381911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605876552022" />
-    <state width="724" height="300" key="GridCell.Tab.1.right" timestamp="1605876552022">
+    <state width="1493" height="304" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605877381911" />
+    <state width="1493" height="304" key="GridCell.Tab.1.right" timestamp="1605877381911">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="300" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605876552022" />
+    <state width="1493" height="304" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605877381911" />
     <state x="221" y="162" key="NewModule_or_Project.wizard" timestamp="1605862365299">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="221" y="162" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1605862365299" />
-    <state x="83" y="104" width="996" height="709" key="SettingsEditor" timestamp="1605862373330">
+    <state x="83" y="104" width="996" height="709" key="SettingsEditor" timestamp="1606127561319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="83" y="104" width="996" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605862373330" />
+    <state x="83" y="104" width="996" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606127561319" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605861447380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

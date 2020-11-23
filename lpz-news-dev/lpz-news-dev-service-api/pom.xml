@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!--
-        lpz-news-dev-service-api：
+        lpzm-news-dev-service-api：
         接口工程，集中管理所有的controller中的接口，为了更好的统一管理微服务
     -->
     <artifactId>lpz-news-dev-service-api</artifactId>
